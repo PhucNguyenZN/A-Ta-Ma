@@ -21,8 +21,8 @@
     "ABSOLUTES": [
         
     ],
-    "NAME": "GBOT - CHIẾN THẦN SÀN WAR 4.0",
-    "PREFIX": "!",
+    "NAME": "ATAMA - Nguyễn Gia Phúc",
+    "PREFIX": " ",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
     "GBOTWAR_OPTIONS": {
@@ -33,8 +33,8 @@
         "OTP_KEY": ""
     },
     "GBOTWAR_MESSAGE": {
-        "notiWelecome": "Bố Nhật tới rồi đây, địt mẹ các con quỳ xuống",
-        "notiApprove": "GBOT đã được phê duyệt để tham chiến",
-        "notiAutoRegBox": "Xin chào bạn đã bị vào tầm ngắm của auto regbox"
+        "notiWelecome": "Gia Phúc Cute 🐼",
+        "notiApprove": "ATAMA đã được phê duyệt để tham chiến",
+        "notiAutoRegBox": "Này Thì Chọc Tao"
     }
 }
