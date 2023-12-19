@@ -1,6 +1,6 @@
 const config = {
   name: "gonhay",
-  aliases: ["n"],
+  aliases: [""],
   description: "",
   usage: "",
   cooldown: 3,
@@ -177,7 +177,7 @@ export function Running( {
     message.send(list[index]);
     index = (index + 1) % list.length;
     if (!isStopped) {
-      setTimeout(sendText, 2000);
+      setTimeout(sendText, 3500);
     }
   };
   sendText();
